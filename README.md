@@ -2,7 +2,7 @@
 Config files for my GitHub profile.
 
 ## 程序员算卦指南
-
+*** 娱乐而已 *** 
 准备三枚硬币就可以开始了！
 
 可以先简单了解下[基本概念](./基本概念.md).
