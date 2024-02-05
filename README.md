@@ -1,6 +1,8 @@
 # IChing
 Config files for my GitHub profile.
 
+### https://fanv.fun/
+
 ## 程序员算卦指南
 ***注意：娱乐而已，非专业人士*** 
 
